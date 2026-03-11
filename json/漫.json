@@ -1,0 +1,14 @@
+{
+"请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+	"主页url": "https://m.18dongmanwang.com",
+	"直接播放": "1",
+	"搜索模式": "1",
+	"数组": "<div class=\"entry-card\">&&</div>",
+	"标题": "alt=\"&&\"",
+	"链接": "a href=\"&&\"",
+	"图片": "img src=\"&&\"",
+	"搜索url": "https://m.18dongmanwang.com/search/?q={wd}&page={pg}",
+    "分类url": "https://m.18dongmanwang.com/{cateId}/page/{catePg}/[https://m.18dongmanwang.com/{cateId}/];;mrcd0",
+    "分类": "成人动漫$zzdongman#动漫精品$dongmanjingz#激情动漫$jiqingdongman#卡通动漫$zzdongman#动漫卡通$dongmanzz#剧情动漫$zqingdongman#动漫肉番$dongmanzz"
+}

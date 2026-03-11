@@ -1,0 +1,23 @@
+{
+    "作者": "PYLB",
+    "站名": "NOWAV.TV",
+    "请求头": "手机",
+    "编码": "UTF-8",
+    "首页": "三上悠亞$200",
+    "主页url": "https://nowav.tv/%e5%a5%b3%e5%84%aa%e5%90%8d/",
+    "二次截取": "td_block_inner tdb-block-inner td-fix-index&&page-nav td-pb-padding-side",
+    "数组": "td-module-thumb\">&&</a",
+    "图片": "background-image: url(&&)",
+    "标题": "title=\"&&\"",
+    "简介": "og:title\" content=\"&&\"",
+    "链接": "href=\"&&\"",
+    "直接播放": "1",
+    "跳转播放链接": "data-lazy-type=*data-src=\"&&\"[替换:amp;>>]",
+    "免嗅": "0",
+    "嗅探词": ".mp4#.m3u8#.flv#https://gr2ohi.azstream.xyz",
+    "嗅探过滤词": ".html#=http#suffixbigendtime=#.js#",
+    "分类url": "https://nowav.tv/tag/{cateId}/page/{catePg}/",
+    "分类数组": "<a&&</a",
+    "分类标题": "td-ct-item\"><span*>&&</span",
+    "分类ID": "href=\"https://nowav.tv/tag/&&/"
+}

@@ -1,0 +1,12 @@
+{
+	"主页url": "https://tellnf.com/",
+	"直接播放": "1",
+	"搜索模式": "1",
+	"数组": "<div class=\"thumb-wrapper \">&&<div class=\"video-details\">",
+	"标题": "<img alt=\"&&\"",
+	"链接": "<a href=\"&&\"",
+	"图片": "data-src=\"&&\"",
+	"搜索url": "https://tellnf.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
+    "分类url": "https://tellnf.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+    "分类": "国产AV$43#国产精品$44#乱伦系列$46#探花约炮$47#主播福利$48#吃瓜福利$49#日韩$52#日本无码$53#日本有码$54#中文字幕$55#日韩自拍$56#伦理三级$57#欧美$59#欧美精品$60#欧美自拍$61#色情动漫$62#换脸明星$63#AV解说$64"
+}

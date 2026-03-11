@@ -1,0 +1,12 @@
+{
+	"主页url": "https://avfolder.com/",
+	"直接播放": "1",
+	"搜索模式": "1",
+	"数组": "<a class=\"video-list-item-link\"&&</div>",
+	"标题": "alt=\"&&\"",
+	"链接": "href=\"&&\"",
+	"图片": "data-src=\"&&\"",
+	"搜索url": "https://avfolder.com/zh/search/{wd}?page={pg}",
+    "分类url": "https://avfolder.com/zh/{cateId}/online?page={catePg}",
+    "分类": "有码$censored#无码$uncensored#欧美$western#FC2$fc2#成人动画$hanime#国产$chinese"
+}

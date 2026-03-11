@@ -1,0 +1,12 @@
+{
+	"主页url": "https://www.qsetv.com/",
+	"直接播放": "1",
+	"搜索模式": "1",
+	"数组": "<div class=\"col\">&&<div class=\"play-overlay\">",
+	"标题": "title=\"&&\"",
+	"链接": "<a href=\"&&\"",
+	"图片": "<img src=\"&&\"",
+	"搜索url": "https://www.qsetv.com/search?page={pg}&keyword={wd}",
+    "分类url": "https://www.qsetv.com/type/{cateId}?page={catePg}",
+    "分类": "国产原创$国产原创#日韩精选$日韩精选#欧美风情$欧美风情#动漫次元$动漫次元#三级伦理$三级伦理"
+}
