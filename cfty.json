@@ -26,6 +26,14 @@
             "jar": "./jar/wutong.jar"
         },
         {
+            "key": "321",
+            "name": "🔞321av",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/321av.json",
+            "jar": "./jar/lge.jar"
+        },
+        {
             "key": "最怕",
             "name": "🔞最色",
             "type": 3,
@@ -64,6 +72,14 @@
             "api": "csp_XBPQ",
             "ext": "./json/zuoaaaa.json",
             "jar": "./jar/wutong.jar"
+        },
+        {
+            "key": "hotporn",
+            "name": "🔞hotporn",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/hotporn.json",
+            "jar": "./jar/lge.jar"
         },
         {
             "key": "漫",
@@ -111,30 +127,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./json/xnxx乐哥.json",
-            "jar": "./jar/lge.jar"
-        },
-        {
-            "key": "p1",
-            "name": "🔞p站1",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./json/p站1.json",
-            "jar": "./jar/lge.jar"
-        },
-        {
-            "key": "p2",
-            "name": "🔞p站2",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./json/p站2.json",
-            "jar": "./jar/lge.jar"
-        },
-        {
-            "key": "p3",
-            "name": "🔞p站3",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./json/p站3.json",
             "jar": "./jar/lge.jar"
         },
         {
@@ -393,6 +385,35 @@
             "api": "csp_XBPQ",
             "ext": "./json/秘密研习社.json",
             "jar": "./jar/lge.jar"
+        },
+        {
+            "key": "桃子姐姐",
+            "name": "🔞桃子姐姐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/lge.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "直接播放": "",
+                "嗅探词": ".mp4#.m3u8",
+                "数组": "vodlist__box&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "pic-text text-right\"><b>&&<",
+                "播放数组": "playlist clearfix&&</ul>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "简介": "【友情提醒：请不要相信视频中的广告，以免上当受骗！】+description\" content=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "https://china3.taoziba.shop/index.php/vod/search/page/{pg}/wd/{wd}/wd_Base64/5Y+j54iG.html",
+                "分类url": "https://china3.taoziba.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "偷拍自拍$20#国产大制作$21#乱伦毁三观$22#嫖妓全过程$23#淫乱妹$24#黑料不打烊$25#监控摄像头$26#主播网红$27#燃烧荷尔蒙$28#剧情故事$29#3D动漫$30"
+            }
         },
         {
             "key": "段老师",
